@@ -69,7 +69,7 @@ and definitely not a nice solution. If I had much more time I would try to prepa
 based on rules, dictionary with names, abbreviations and alternatives 
 to each name, and use methods of nlp.
 
-#Before production
+# Before production
 Some things need to be done before going with this to production
 * unit tests (Not enough time to write them) !
 * add logging
